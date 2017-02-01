@@ -1,0 +1,9 @@
+requirements-
+--tensorflow
+--cv2
+--numpy
+--random
+--collections
+--pygame
+
+To run the game, run python reinforcement_learning.py in your command prompt/terminal
